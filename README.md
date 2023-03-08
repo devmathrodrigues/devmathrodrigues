@@ -1,7 +1,6 @@
 ### Olá! Bem vindo ao meu perfil
 
-- 🌱 Estudando lógica de programação com JavaScript
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando Bootstrap com um pézinho em React também :)
 
 <div align="center">
   <a href="https://github.com/devmathrodrigues">
