@@ -1,6 +1,6 @@
 ### Olá! Bem vindo ao meu perfil
 
-- 🌱 Atualmente estudo Java com foco no backend :)
+- 🌱 Atualmente estudo Java :)
 
 <div align="center">
   <a href="https://github.com/devmathrodrigues">
